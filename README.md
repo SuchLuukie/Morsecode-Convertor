@@ -6,5 +6,4 @@
  * Winsound - Morse code Sound
 
 # Preview / How it works
-GUI
 ![GUI](https://github.com/SuchLuukie/Morsecode-Convertor/blob/main/Showcase/Capture.PNG?raw=true)
